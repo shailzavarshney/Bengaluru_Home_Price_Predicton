@@ -50,8 +50,8 @@ The Dataset is collected from Kaggle:
 
 **Other libraries :** Pickle , Json
 
-![WhatsApp Image 2021-09-02 at 10 19 55 AM (2)](https://user-images.githubusercontent.com/68499759/131785593-4fff1630-9dc8-4c40-a718-210b233a0a0d.jpeg)
-<img src="https://user-images.githubusercontent.com/68499759/131785593-4fff1630-9dc8-4c40-a718-210b233a0a0d.jpeg" width="100" height="100">
-![WhatsApp Image 2021-09-02 at 10 49 16 AM](https://user-images.githubusercontent.com/68499759/131786184-ccb34246-5031-44e2-9a00-09b2ef31d57c.jpeg)
+<img src="https://user-images.githubusercontent.com/68499759/131785593-4fff1630-9dc8-4c40-a718-210b233a0a0d.jpeg" width="500" height="500">
 
-![WhatsApp Image 2021-09-02 at 10 49 16 AM (1)](https://user-images.githubusercontent.com/68499759/131786271-8681b799-efa6-4f8f-9c26-9ab0bb081745.jpeg)
+<img src="https://user-images.githubusercontent.com/68499759/131786184-ccb34246-5031-44e2-9a00-09b2ef31d57c.jpeg" width="500" height="500">
+
+<img src="https://user-images.githubusercontent.com/68499759/131786271-8681b799-efa6-4f8f-9c26-9ab0bb081745.jpeg" width="500" height="500">
