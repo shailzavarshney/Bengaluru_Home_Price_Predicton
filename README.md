@@ -51,7 +51,5 @@ The Dataset is collected from Kaggle:
 **Other libraries :** Pickle , Json
 
 <img src="https://user-images.githubusercontent.com/68499759/131785593-4fff1630-9dc8-4c40-a718-210b233a0a0d.jpeg" width="400" height="300">
-
 <img src="https://user-images.githubusercontent.com/68499759/131786184-ccb34246-5031-44e2-9a00-09b2ef31d57c.jpeg" width="400" height="300">
-
 <img src="https://user-images.githubusercontent.com/68499759/131786271-8681b799-efa6-4f8f-9c26-9ab0bb081745.jpeg" width="400" height="300">
