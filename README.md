@@ -2,7 +2,7 @@
 
 This Model **predicts real estate price in Bangalore**. Many times we have come across websites like "Magicbricks.com" or "zillow.com " where they sell and estimate the price of the property in many parts of the country based on various features, so this model is also inspired by the concept of predicting property prices based on the area, bathrooms , bedrooms and location of property . 
 
-This Model will people to know about the prices of house in Bangalore without the need of contacting different agents .
+This Model will help people to know about the prices of house in Bangalore without the need of contacting different agents .
 
 The model is trained on the **Linear Regression** algorithm to predict the continuous prices values of data.
 
